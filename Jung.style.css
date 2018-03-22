@@ -1,0 +1,153 @@
+.body {
+  background-image: url("Background.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-color: #696969;
+}
+
+.container {
+  margin: 10px 0 0 0;
+  padding: 0 20px 20px 20px;
+  font-size: 14px;
+  color: #fff;
+}
+div h1 {
+  color:black;
+  font-weight: 100;
+  font-size: 30px;
+  font-family: 'Frijole', Arial, serif; 
+}
+.header, .footer {
+  padding: 30px 0; 
+  color: black; 
+  background: none;
+} 
+ 
+.header ul, .footer ul {
+  padding: 0 20px; 
+  margin: 0; 
+  list-style: none; 
+}
+ 
+.header li {
+  display: inline; 
+  text-align: center; 
+}
+ 
+.header li a {
+  color:black; 
+}
+
+ 
+.main {
+  margin-bottom: 30px; 
+} 
+
+.thumbnail {
+  padding: 0; 
+  box-shadow:0px 2px 2px rgba(0,0,0,0.1); 
+  border-radius:0px; 
+  border:0px; 
+} 
+
+.thumbnail img {
+  width: 100%; 
+  display: block; 
+}  
+ 
+.footer li {
+  display: inline;
+  margin-right: 40px; 
+} 
+
+.footer p {
+  margin: 0 30px 0 0; 
+} 
+
+img {
+    width: 500px;
+    height: 100px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: -10px;
+	width: 50%;
+	height: 800px;
+	font-family: 'Montserrat', sans-serif; 
+  background: none;
+	margin-bottom: 15px;
+	color: #FFFF33;
+}
+
+.right p {
+	font-family: Times New Roman;
+	margin-left: 30px;
+	margin-right: 5px;
+	color: #FFFF33;
+	font-weight: bold;
+	}
+	
+
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: -10px;
+	width: 50%;
+	height: 800px;
+	font-family: 'Montserrat', sans-serif; 
+  background: none;
+	margin-bottom: 15px;
+	color: #FFFF33;
+}
+
+div h2 {
+    color: black;
+    font-size: 22px;
+    font-family: Times New Roman;
+}
+
+p {
+color: black;
+font-size: 20px;
+}
+
+p a {
+	color: black;
+	font-size: 30px;
+	}
+	
+li p1 a {
+  color: #FF00FF;
+	font-size: 25px;
+}
+
+.thumbnail {
+  padding: 0; 
+  box-shadow:0px 2px 2px rgba(0,0,0,0.1); 
+  border-radius:0px; 
+  border:0px; 
+} 
+
+.thumbnail img {
+  width: 100%; 
+  display: block; 
+}  
+ 
+.footer li {
+  display: inline;
+  margin-right: 40px; 
+} 
+
+.footer p {
+  margin: 0 30px 0 0; 
+} 
+
+h1 {
+  color:black;
+  font-weight: 100;
+  font-size: 30px;
+  font-family: 'Frijole', Arial, serif; 
+}
